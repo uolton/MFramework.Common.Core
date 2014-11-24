@@ -6,6 +6,10 @@ using C5;
 
 namespace MFramework.Common.Core.Collections
 {
+    /// <summary>
+    /// 
+    /// 
+    /// </summary>
     public static class GraphPredicate
     {
         public static class Predecessor
